@@ -1,2 +1,19 @@
-# data-analysis-of-olympic-games
-Data Analysis of Olympic Games (1896-2022)
+# Data Analysis of Olympic Games (1896-2022)
+
+The Olympic Games are one of the most prestigious sporting events in the world. They have been held every four years since 1896, with the exception of World War I and World War II. The Games have seen some of the greatest athletes in history compete in a wide variety of sports.
+
+The goal of this project is to research the history of the Olympic Games and find interesting statistics. The project aims to answer questions such as:
+
+- Which years and cities the Olympics were held in
+
+- Which country has won the most medals?
+
+- Which sport has the highest number of medals awarded?
+
+- What are the trends in medal count over time?
+
+- How has the participation of women in the Olympic Games changed over time?
+
+- Do host countries generally win more medals in the Olympics?
+
+and more
