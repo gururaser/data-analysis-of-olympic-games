@@ -14,8 +14,6 @@ The goal of this project is to research the history of the Olympic Games and fin
 
 - How has the number of sports in the Olympics changed over time?
 
-and more
-
 > Dataset is from [Kaggle](https://www.kaggle.com/datasets/josephcheng123456/olympic-historical-dataset-from-olympediaorg)
 
 ## Where the Data is Obtained ?
