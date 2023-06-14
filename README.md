@@ -28,6 +28,7 @@ Data Collector's answer :
 ## Which country has won the most medals?
 
 ![Data Visual](https://github.com/gururaser/data-analysis-of-olympic-games/blob/main/graphics/top5_medal_countries.png)
+![Data Visual](https://github.com/gururaser/data-analysis-of-olympic-games/blob/main/graphics/top5_medal_countries_g_s_b_2.png)
 ![Data Visual](https://github.com/gururaser/data-analysis-of-olympic-games/blob/main/graphics/top5_medals_by_20_years_lineplot.png)
 ![Data Visual](https://github.com/gururaser/data-analysis-of-olympic-games/blob/main/graphics/top5_medals_by_year_lineplot.png)
 ![Data Visual](https://github.com/gururaser/data-analysis-of-olympic-games/blob/main/graphics/top5_cumulative_medals_by_20_years_lineplot.png)
