@@ -16,6 +16,9 @@ The goal of this project is to research the history of the Olympic Games and fin
 
 > Dataset is from [Kaggle](https://www.kaggle.com/datasets/josephcheng123456/olympic-historical-dataset-from-olympediaorg)
 
+## Data Analysis Report of Olympic Games
+[Data Analysis Report](https://github.com/gururaser/data-analysis-of-olympic-games/blob/main/data-analysis-report-of-olympic-games.pdf)
+
 ## Where the Data is Obtained ?
 Data Collector's answer :
 
